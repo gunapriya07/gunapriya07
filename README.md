@@ -3,7 +3,7 @@
 
 👀 I’m interested in programming, technology, science, etc..
 
-🌱 I’m currently learning Full Stack Web Development
+🌱 I’m currently learning DSA
 
 📫 You can reach me mail : gunapriya77776@gmail.com
 
