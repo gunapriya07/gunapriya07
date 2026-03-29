@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gunapriya</h1>
+<h1 align="center">Hi , I'm Gunapriya</h1>
 <h3 align="center">Student at Kalvium | Passionate about Tech, Programming & Science</h3>
 
 ---
