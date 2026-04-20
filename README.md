@@ -3,11 +3,11 @@
 
 ---
 
-### 🔭 I’m currently learning:
+###  I’m currently learning:
 - Data Structures and Algorithms (DSA)
 - Web Development (MERN Stack)
 
-### 👀 Interests:
+###  Interests:
 - Programming & Development
 - Technology and Science
 - UI/UX Design
@@ -53,7 +53,7 @@
 
 ---
 
-### ✍️ Dev Quote:
+### Dev Quote:
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
 </p>
