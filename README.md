@@ -12,12 +12,12 @@
 - Technology and Science
 - UI/UX Design
 
-### 📫 Reach Me At:
+###  Reach Me At:
 - Email: gunapriya77776@gmail.com
 
 ---
 
-### 📊 GitHub Stats:
+### GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gunapriya07&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
@@ -29,7 +29,7 @@
 
 ---
 
-### 💻 Tech Stack:
+###  Tech Stack:
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
